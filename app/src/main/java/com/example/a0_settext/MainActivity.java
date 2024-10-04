@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         bt.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                tv.setText("Welcome to Graphic Era");
+                tv.setText("HELLO");
             }
         });
     }
